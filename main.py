@@ -13,6 +13,7 @@ import os
 import sys
 
 # The printer's comeback: one line, 209 characters.
+# It leads with the error code and the jam count, then lands the ask.
 LINE = (
     "Error E-47, jam #6 before 9 a.m. on a Monday, and you thumped me "
     "like a vending machine. I still printed your 214-page report in "
